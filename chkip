@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Modificat de Student B
 verifica_ip() {
     local nume="$1"
     local ip="$2"
